@@ -1,0 +1,23 @@
+[15-Nov-2021 11:42:45 America/New_York] PHP Warning:  require(../cone.php): failed to open stream: No such file or directory in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:42:45 America/New_York] PHP Warning:  require(../cone.php): failed to open stream: No such file or directory in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:42:45 America/New_York] PHP Fatal error:  require(): Failed opening required '../cone.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:42:53 America/New_York] PHP Warning:  require(../cone.php): failed to open stream: No such file or directory in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:42:53 America/New_York] PHP Warning:  require(../cone.php): failed to open stream: No such file or directory in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:42:53 America/New_York] PHP Fatal error:  require(): Failed opening required '../cone.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:43:18 America/New_York] PHP Warning:  require(../cone.php): failed to open stream: No such file or directory in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:43:18 America/New_York] PHP Warning:  require(../cone.php): failed to open stream: No such file or directory in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:43:18 America/New_York] PHP Fatal error:  require(): Failed opening required '../cone.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:45:51 America/New_York] PHP Warning:  require(../cone.php): failed to open stream: No such file or directory in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:45:51 America/New_York] PHP Warning:  require(../cone.php): failed to open stream: No such file or directory in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[15-Nov-2021 11:45:51 America/New_York] PHP Fatal error:  require(): Failed opening required '../cone.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/liderazgoenlinea/public_html/efitrans/crear-t.php on line 3
+[16-Nov-2021 11:30:19 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/liderazgoenlinea/public_html/efitrans/re.php on line 7
+[16-Nov-2021 11:30:22 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/liderazgoenlinea/public_html/efitrans/re.php on line 7
+[16-Nov-2021 11:30:43 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/liderazgoenlinea/public_html/efitrans/re.php on line 7
+[16-Nov-2021 12:57:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/liderazgoenlinea/public_html/efitrans/re.php:233
+Stack trace:
+#0 {main}
+  thrown in /home/liderazgoenlinea/public_html/efitrans/re.php on line 233
+[16-Nov-2021 13:33:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/liderazgoenlinea/public_html/efitrans/re.php:233
+Stack trace:
+#0 {main}
+  thrown in /home/liderazgoenlinea/public_html/efitrans/re.php on line 233
